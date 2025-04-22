@@ -30,39 +30,35 @@ I specialize in statistical modeling, generative AI, and time series forecasting
 **💼 Experience:**  
 - **Machine Learning Engineer**  
   Dassault Aviation, SENAI LABS IIT Madras (Dec 2023 – Dec 2024, Remote)  
-  - Built VAEs for synthetic multivariate time series, enabling robust ML model validation.
-  - Developed frameworks for anomaly injection and causal structure learning in time series.
 - **Software Developer**  
   Telefonica VMO2 (Accenture) (Apr 2021 – Oct 2022, India)  
-  - Designed C++ data processing for telecom provisioning, supporting 10M+ devices.
-  - Engineered backend pipelines and optimized database performance on Linux.
 
 ---
 
-**🛠️ Technologies I Work With**
+## 🛠️ Technologies I Work With
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" height="32" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cpp.png" height="32" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="32" alt="C"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" height="32" alt="R"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sql.png" height="32" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" height="32" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" height="32" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit_learn.png" height="32" alt="Scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" height="32" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" height="32" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/huggingface.png" height="32" alt="HuggingFace"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain.png" height="32" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" height="32" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" height="32" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" height="32" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rust.png" height="32" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" height="32" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" height="32" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tableau.png" height="32" alt="Tableau"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.png" height="32" alt="PowerBI"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" height="32" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cpp.png" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit_learn.png" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/huggingface.png" alt="HuggingFace" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rust.png" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tableau.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.png" alt="PowerBI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
